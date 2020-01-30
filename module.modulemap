@@ -1,0 +1,5 @@
+module xmlrpc [system] {
+  header "/usr/local/include/xmlrpc.h"
+  link "xmlrpc"
+  export *
+}
