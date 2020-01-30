@@ -1,4 +1,4 @@
-module xmlrpc [system] {
+module xmlrpc_mac [system] {
   header "/usr/local/include/xmlrpc.h"
   link "xmlrpc"
   export *
